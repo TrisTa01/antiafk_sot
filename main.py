@@ -7,7 +7,7 @@ y1 = 420
 x2 = 276
 y2 = 462
 
-print("Le script démarre dans 10 secondes \n\nClique sur sea of thieves")
+print("Le script démarre dans 10 secondes \n\nClique sur Sea of Thieves")
 print("\nAppuyez sur 'Ctrl+C' pour arrêter le script.")
 time.sleep(10)
 
